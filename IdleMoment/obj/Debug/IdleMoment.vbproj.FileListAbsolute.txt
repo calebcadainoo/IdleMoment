@@ -1,0 +1,9 @@
+E:\VB PROJECTS\IdleMoment\IdleMoment\bin\Debug\IdleMoment.exe
+E:\VB PROJECTS\IdleMoment\IdleMoment\bin\Debug\IdleMoment.pdb
+E:\VB PROJECTS\IdleMoment\IdleMoment\bin\Debug\IdleMoment.xml
+E:\VB PROJECTS\IdleMoment\IdleMoment\obj\Debug\IdleMoment.Form1.resources
+E:\VB PROJECTS\IdleMoment\IdleMoment\obj\Debug\IdleMoment.Resources.resources
+E:\VB PROJECTS\IdleMoment\IdleMoment\obj\Debug\IdleMoment.vbproj.GenerateResource.Cache
+E:\VB PROJECTS\IdleMoment\IdleMoment\obj\Debug\IdleMoment.exe
+E:\VB PROJECTS\IdleMoment\IdleMoment\obj\Debug\IdleMoment.xml
+E:\VB PROJECTS\IdleMoment\IdleMoment\obj\Debug\IdleMoment.pdb
